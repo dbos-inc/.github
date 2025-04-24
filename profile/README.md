@@ -1,8 +1,3 @@
-DBOS makes it easy to build reliable and observable programs.
-Add a few annotations to your code to make it resilient to any failure.
-
-## Developing With DBOS
-
 DBOS provides lightweight, durable, Postgres-backed workflows.
 DBOS workflows replace queues, state management, and failure-handling/recovery logic to enable you to build reliable programs in a fraction of the code.
 
