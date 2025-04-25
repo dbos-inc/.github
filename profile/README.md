@@ -16,4 +16,5 @@ That's all you need to do&mdash;there's no additional infrastructure for you to 
 - [Docs](https://docs.dbos.dev/)
 - [Quickstart](https://docs.dbos.dev/quickstart)
 - [Example Applications](https://docs.dbos.dev/examples)
+- [Blog](https://www.dbos.dev/blog)
 - [Discord Community](https://discord.gg/fMwQjeW5zg)
