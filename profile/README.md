@@ -1,5 +1,5 @@
 DBOS provides lightweight, durable, Postgres-backed workflows.
-DBOS workflows replace queues, state management, and failure-handling/recovery logic to enable you to build reliable programs in a fraction of the code.
+DBOS workflows replace queues, state management, and failure-handling/recovery logic to enable you to build reliable programs with a fraction of the code.
 
 To get started, follow the [quickstart](https://docs.dbos.dev/quickstart) to install the open-source library and connect it to a Postgres database.
 Then, annotate workflows and steps in your program to make it durable!
