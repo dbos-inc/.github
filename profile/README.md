@@ -9,5 +9,5 @@ That's all you need to do&mdash;there's no additional infrastructure for you to 
 
 - [DBOS Python](https://github.com/dbos-inc/dbos-transact-py)
 - [DBOS TypeScript](https://github.com/dbos-inc/dbos-transact-ts)
-- [DBOS Go](https://github.com/dbos-inc/dbos-transact-go) (Work-in-Progress)
+- [DBOS Go](https://github.com/dbos-inc/dbos-transact-go)
 - [DBOS Java](https://github.com/dbos-inc/dbos-transact-java) (Work-in-Progress)
