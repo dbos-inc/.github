@@ -1,9 +1,12 @@
-DBOS provides Postgres-backed durable workflows.
-DBOS workflows replace queues, state management, and failure-handling/recovery logic to enable you to build reliable programs with a fraction of the code.
+DBOS provides durable workflows using the Postgres database you already have.
+No additional infrastructure required.
 
-To get started, follow the [quickstart](https://docs.dbos.dev/quickstart) to install the open-source library and connect it to a Postgres database.
-Then, annotate workflows and steps in your program to make it durable!
-That's all you need to do&mdash;there's no additional infrastructure for you to manage.
+With DBOS, your database handles workflow state, queues, retries, and recovery, so you can build reliable programs with far less code and without managing a separate orchestration system.
+
+To get started, follow the [quickstart](https://docs.dbos.dev/quickstart) to install the open-source library and connect it to your Postgres database.
+Then, annotate workflows and steps in your program to make them durable.
+
+That's it: your application, your Postgres, and DBOS.
 
 ## Open Source Repositories
 
@@ -11,6 +14,7 @@ That's all you need to do&mdash;there's no additional infrastructure for you to 
 - [DBOS TypeScript](https://github.com/dbos-inc/dbos-transact-ts)
 - [DBOS Go](https://github.com/dbos-inc/dbos-transact-go)
 - [DBOS Java](https://github.com/dbos-inc/dbos-transact-java)
+- [DBOS Rust](https://github.com/dbos-inc/dbos-transact-rust)
 - [DBOSify](https://github.com/dbos-inc/dbosify-py)
 
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20Chat-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/jsmC6pXGgX)
