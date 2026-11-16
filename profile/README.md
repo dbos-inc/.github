@@ -1,7 +1,4 @@
-DBOS provides durable workflows using the Postgres database you already have.
-No additional infrastructure required.
-
-With DBOS, your database handles workflow state, queues, retries, and recovery, so you can build reliable programs with far less code and without managing a separate orchestration system.
+DBOS is an open-source, Postgres-native [durable execution](https://www.dbos.dev/durable-execution) library for building reliable AI agents, background jobs, and workflows. It provides workflow crash recovery, durable queues, scheduling, and high-throughput execution without requiring a separate orchestration server.
 
 To get started, follow the [quickstart](https://docs.dbos.dev/quickstart) to install the open-source library and connect it to your Postgres database.
 Then, annotate workflows and steps in your program to make them durable.
